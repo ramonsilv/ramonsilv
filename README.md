@@ -1,7 +1,7 @@
--👋 Olá eu sou Ramon Silva Freitas
--💼 Atualmente trabalho em:
+- 👋 Olá eu sou Ramon Silva Freitas
+- 💼 Atualmente trabalho em:
 - Atualmente estudo Programador de Sistemas no SENAC-GOIAS, Técnico em Informática para Internet EAD no IFSUL DE MINAS
--💻 Atualmente desenvolvo:
+- 💻 Atualmente desenvolvo:
   Desenvolvo html 5
   desenvolvo CSS3
   JavaScript front-end e back-end
